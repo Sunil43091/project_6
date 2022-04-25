@@ -4,16 +4,16 @@
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Name</th>
+      <th scope="col">Link</th>
+      <th scope="col">Repos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
       <td>Mark</td>
-      <td>Otto</td>
+      <td><a href="https://sunil43091.github.io/cenzuk_project/" target="_blank">Link </a></td>
       <td>@mdo</td>
     </tr>
     <tr>
